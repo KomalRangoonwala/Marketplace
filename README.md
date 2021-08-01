@@ -22,5 +22,35 @@ You will be provided with various options as follows:
 7. Exit (It will stop asking for your input)
 
 **Example of input/output**
+1. This is how the console looks initially
 ![GitHub Logo](/screenshots/TheInception.png)
+Format: ![Alt Text](url)
+
+2. You can display the stocks again for updated price (it is just a random number)
+![GitHub Logo](/screenshots/DisplayStocks.png)
+Format: ![Alt Text](url)
+
+3. Select the user from given users or your can choose to add your own user which will be demonstrated in the next step
+![GitHub Logo](/screenshots/SelectUser.png)
+Format: ![Alt Text](url)
+
+4. You can create your own user and select it by following step#3
+Insert and select user
+![GitHub Logo](/screenshots/InsertAndSelectUser.png)
+Format: ![Alt Text](url)
+
+5. Buy stocks by entering the listing ID and number of shares you wish to buy
+![GitHub Logo](/screenshots/BuyStocks.png)
+Format: ![Alt Text](url)
+
+6. You can sell stocks by entering the listing ID and number of shares you wish to sell
+![GitHub Logo](/screenshots/SellStocks.png)
+Format: ![Alt Text](url)
+
+Stocks sold with profit
+![GitHub Logo](/screenshots/SoldStocksWithProfit.png)
+Format: ![Alt Text](url)
+
+Stocks sold with loss
+![GitHub Logo](/screenshots/SoldStocksWithLoss.png)
 Format: ![Alt Text](url)
