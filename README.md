@@ -23,8 +23,7 @@ You will be provided with various options as follows:
 
 **Example of input/output**
 1. This is how the console looks initially
-![GitHub Logo](/screenshots/TheInception.png)
-Format: ![Alt Text](url)
+![alt text](/screenshots/TheInception.png)
 
 2. You can display the stocks again for updated price (it is just a random number)
 ![GitHub Logo](/screenshots/DisplayStocks.png)
