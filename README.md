@@ -30,7 +30,7 @@ You will be provided with various options as follows:
 
 ![alt text](/screenshots/DisplayStocks.png)
 
-3. Select the user from given users or your can choose to add your own user which will be demonstrated in the next step
+3. Select the user from given users or you can choose to add your own user which will be demonstrated in the next step
 
 ![alt text](/screenshots/SelectUser.png)
 
